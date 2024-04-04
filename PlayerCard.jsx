@@ -1,5 +1,6 @@
 import AllPlayers from "./AllPlayers"
 
+
 const PlayerCard = ({player}) => {
   return (
     <>
